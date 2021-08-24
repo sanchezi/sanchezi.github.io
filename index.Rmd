@@ -1,0 +1,29 @@
+---
+title: "Isabelle Sanchez"
+---
+
+
+# Statistician Engineer
+
+UMR Mistea, building 21 3rd floor, office 319, 2 place Pierre Viala, 34060 Montpellier Cedex 2, France
+
+Isabelle.Sanchez@inra.fr / +33 (0)4 99 61 31 95
+    
+https://github.com/sanchezi
+
+# Projects Phenome, EPPN2020, COEX, Starwine
+
+# Development for high throughput phenotyping data, temporal and spatial:
+
+* data management and visualization
+* methods for detecting outliers
+
+# Development of R packages for web service client for high throughput phenotyping platforms
+
+* opensilex-ws-client-R
+* phisWSClientR
+
+# Development of R packages of statistical methods developed within the unit:
+
+* geozoning (download package=geozoning)
+* bliss (download package=bliss)
