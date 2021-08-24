@@ -5,10 +5,13 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+      
   right: 
-  - text: "Github"
-  icon: fa-github fa-lg
-  href: https://github.com/sanchezi
+    - text: "Github"
+      icon: fab fa-github
+      href: https://github.com/sanchezi
+
 output:
   html_document:
-    theme: flatly
+    theme: cosmo
+    highlight: haddock
