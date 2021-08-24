@@ -1,0 +1,13 @@
+name: "website"
+navbar:
+  title: "Isabelle Sanchez"
+  left:
+    - text: "Home"
+      href: index.html
+  right: 
+  - text: "Github"
+  icon: fab fa-github
+  href: https://github.com/sanchezi
+output:
+  html_document:
+    theme: flatly
