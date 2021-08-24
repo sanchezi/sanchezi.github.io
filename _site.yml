@@ -6,7 +6,7 @@ navbar:
       href: index.html
   right: 
   - text: "Github"
-  icon: fab fa-github
+  icon: fa-github fa-lg
   href: https://github.com/sanchezi
 output:
   html_document:
