@@ -1,6 +1,7 @@
 name: "website"
 output_dir: "."
 navbar:
+  logo: INRAE_logo.png
   title: "Isabelle Sanchez"
   left:
     - text: "Home"

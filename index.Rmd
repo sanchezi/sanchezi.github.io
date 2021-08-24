@@ -5,9 +5,9 @@ title: "Isabelle Sanchez"
 
 # Statistician Engineer
 
-UMR Mistea, building 21 3rd floor, office 319, 2 place Pierre Viala, 34060 Montpellier Cedex 2, France
+**UMR Mistea**, building 21 3rd floor, office 319, 2 place Pierre Viala, 34060 Montpellier Cedex 2, France
 
-Isabelle.Sanchez@inra.fr / +33 (0)4 99 61 31 95
+Isabelle.Sanchez _at_ inra.fr / +33 (0)4 99 61 31 95
     
 https://github.com/sanchezi
 
