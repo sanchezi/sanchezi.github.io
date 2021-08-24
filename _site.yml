@@ -1,4 +1,5 @@
 name: "website"
+output_dir: "."
 navbar:
   title: "Isabelle Sanchez"
   left:
