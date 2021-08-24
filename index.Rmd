@@ -27,3 +27,11 @@ https://github.com/sanchezi
 
 * geozoning ([download package=geozoning](https://github.com/hazaeljones/geozoning))
 * bliss ([download package=bliss](https://github.com/pmgrollemund/bliss))
+
+# Leading a R and Python programming working group
+
+https://forgemia.inra.fr/isabelle.sanchez/GdT-PyR
+
+https://isabelle.sanchez.pages.mia.inra.fr/blog_pyr/
+
+# Development of R/Shiny applications, shiny, shinydashboard,R server
