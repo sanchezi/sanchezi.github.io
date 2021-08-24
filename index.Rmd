@@ -25,5 +25,5 @@ https://github.com/sanchezi
 
 # Development of R packages of statistical methods developed within the unit:
 
-* geozoning (download package=geozoning)
-* bliss (download package=bliss)
+* geozoning ([download package=geozoning](https://github.com/hazaeljones/geozoning))
+* bliss ([download package=bliss](https://github.com/pmgrollemund/bliss))
