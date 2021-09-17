@@ -1,0 +1,17 @@
+---
+title: "Publications"
+output: 
+  html_document:
+   toc: false
+   logo: img/Logotype-INRAE.jpg
+   number_sections: false
+   highlight: tango
+   css: style.css
+   includes:
+     before_body: extlogo.html
+---
+
+
+# HAL CV
+
+https://cv.archives-ouvertes.fr/isabelle-sanchez?langChosen=fr

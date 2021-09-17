@@ -1,5 +1,12 @@
 ---
 title: "Isabelle Sanchez"
+output: 
+  html_document:
+   logo: img/Logotype-INRAE.jpg
+   number_sections: false
+   css: style.css
+   includes:
+     before_body: extlogo.html
 ---
 
 
@@ -7,7 +14,7 @@ title: "Isabelle Sanchez"
 
 **UMR Mistea**, building 21 3rd floor, office 319, 2 place Pierre Viala, 34060 Montpellier Cedex 2, France
 
-Isabelle.Sanchez _at_ inra.fr / +33 (0)4 99 61 31 95
+Isabelle.Sanchez _at_ inrae.fr / +33 (0)4 99 61 31 95
     
 https://github.com/sanchezi
 
@@ -25,13 +32,14 @@ https://github.com/sanchezi
 
 # Development of R packages of statistical methods developed within the unit:
 
-* geozoning ([download package=geozoning](https://github.com/hazaeljones/geozoning))
-* bliss ([download package=bliss](https://github.com/pmgrollemund/bliss))
+* geozoning ([on Github](https://github.com/hazaeljones/geozoning))
+* bliss ([on Github](https://github.com/pmgrollemund/bliss), [on CRAN](https://CRAN.R-project.org/package=bliss))
+* spiceFP ([on Github](https://github.com/giraultg/SpiceFP), [on CRAN](https://CRAN.R-project.org/package=SpiceFP))
 
 # Leading a R and Python programming working group
 
-https://forgemia.inra.fr/isabelle.sanchez/GdT-PyR
+[Gitlab repository](https://forgemia.inra.fr/isabelle.sanchez/GdT-PyR)
 
-https://isabelle.sanchez.pages.mia.inra.fr/blog_pyr/
+[PyR blog](https://isabelle.sanchez.pages.mia.inra.fr/blog_pyr/)
 
-# Development of R/Shiny applications, shiny, shinydashboard,R server
+# Development of R/Shiny applications, shiny, shinydashboard, R server
