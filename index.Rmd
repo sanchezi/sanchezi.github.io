@@ -18,25 +18,27 @@ Isabelle.Sanchez _at_ inrae.fr / +33 (0)4 99 61 31 95
     
 https://github.com/sanchezi
 
-# Projects Phenome, EPPN2020, COEX, Starwine
+# Projects Phenome, EPPN2020, COEX, Starwine, TechCare
 
 # Development for high throughput phenotyping data, temporal and spatial:
 
-* data management and visualization
+* data management and visualization of experiments in greenhouses or fields
 * methods for detecting outliers
+* [openSilexStatR](https://sanchezi.github.io/openSilexStatR/) - [github repository](https://github.com/sanchezi/openSilexStatR)
+* [statgenHTP](https://CRAN.R-project.org/package=statgenHTP)
 
 # Development of R packages for web service client for high throughput phenotyping platforms
 
 * opensilex-ws-client-R
-* phisWSClientR
+* **phisWSClientR**: https://github.com/OpenSILEX/opensilexClientR, https://github.com/OpenSILEX/phisWSClientR
 
-# Development of R packages of statistical methods developed within the unit:
+# Development of R packages of statistical methods developed within the lab:
 
 * geozoning ([on Github](https://github.com/hazaeljones/geozoning))
 * bliss ([on Github](https://github.com/pmgrollemund/bliss), [on CRAN](https://CRAN.R-project.org/package=bliss))
 * spiceFP ([on Github](https://github.com/giraultg/SpiceFP), [on CRAN](https://CRAN.R-project.org/package=SpiceFP))
 
-# Leading a R and Python programming working group
+# Leading an R and Python programming working group
 
 [Gitlab repository](https://forgemia.inra.fr/isabelle.sanchez/GdT-PyR)
 
