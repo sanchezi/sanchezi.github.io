@@ -20,7 +20,7 @@ https://github.com/sanchezi
 
 # Projects Phenome, EPPN2020, COEX, Starwine, TechCare
 
-# Development for high throughput phenotyping data, temporal and spatial:
+# Development for high throughput, temporal and spatial phenotyping data:
 
 * data management and visualization of experiments in greenhouses or fields
 * methods for detecting outliers
