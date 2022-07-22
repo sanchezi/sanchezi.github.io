@@ -20,6 +20,11 @@ https://github.com/sanchezi
 
 # Projects Phenome, EPPN2020, COEX, Starwine, TechCare
 
+* Detection of outliers (on spatial data, on temporal data, impulsed noised outliers ...)
+* Biclustering on survey data
+* Spatial clustering on survey data
+* GAM modeling on temporal data
+
 # Development for high throughput phenotyping data, temporal and spatial:
 
 * data management and visualization of experiments in greenhouses or fields
@@ -37,11 +42,15 @@ https://github.com/sanchezi
 * geozoning ([on Github](https://github.com/hazaeljones/geozoning))
 * bliss ([on Github](https://github.com/pmgrollemund/bliss), [on CRAN](https://CRAN.R-project.org/package=bliss))
 * spiceFP ([on Github](https://github.com/giraultg/SpiceFP), [on CRAN](https://CRAN.R-project.org/package=SpiceFP))
+* blockmodels4inventories([on Gitlab](https://forgemia.inra.fr/nicolas.verzelen/blockmodels4inventories), [web site](nicolas.verzelen.pages.mia.inra.fr/blockmodels4inventories/))
 
 # Leading an R and Python programming working group
 
-[Gitlab repository](https://forgemia.inra.fr/isabelle.sanchez/GdT-PyR)
+[Gitlab repository](https://forgemia.inra.fr/gdtpyr/GdT-PyR)
 
-[PyR blog](https://isabelle.sanchez.pages.mia.inra.fr/blog_pyr/)
+[PyR blog](https://gdtpyr.pages.mia.inra.fr/blog/)
 
 # Development of R/Shiny applications, shiny, shinydashboard, R server
+
+Beta user in the [SK8](https://sk8.inrae.fr/) project. [documentation](https://docs.sk8.inrae.fr/)
+
