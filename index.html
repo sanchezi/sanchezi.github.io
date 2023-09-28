@@ -11,9 +11,9 @@
 
 
 
-<title>Isabelle Sanchez</title>
+<title>Isabelle Sanchez - Statistician Engineer</title>
 
-<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.24/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
@@ -30,8 +30,8 @@
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -169,8 +169,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -178,16 +178,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -248,12 +241,35 @@ $(document).ready(function () {
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li>
-  <a href="https://github.com/sanchezi">
-    <span class="fab fa-github"></span>
+        <li class="dropdown">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+    On the web
      
-    Github
+    <span class="caret"></span>
   </a>
+  <ul class="dropdown-menu" role="menu">
+    <li>
+      <a href="https://github.com/sanchezi">
+        <span class="fab fa-github"></span>
+         
+        Github
+      </a>
+    </li>
+    <li>
+      <a href="https://fr.linkedin.com/in/isabelle-sanchez-9b884849">
+        <span class="fab fa-linkedin"></span>
+         
+        LinkedIn
+      </a>
+    </li>
+    <li>
+      <a href="https://www.researchgate.net/profile/Sanchez-Isabelle-2">
+        <span class="fab fa-researchgate"></span>
+         
+        Research gate
+      </a>
+    </li>
+  </ul>
 </li>
       </ul>
     </div><!--/.nav-collapse -->
@@ -265,28 +281,48 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Isabelle Sanchez</h1>
+<h1 class="title toc-ignore">Isabelle Sanchez - Statistician
+Engineer</h1>
 
 </div>
 
 
-<div id="statistician-engineer" class="section level1">
-<h1>Statistician Engineer</h1>
+<p>I am a statistician engineer at <a
+href="https://www.inrae.fr/">INRAE</a> in <a
+href="https://www6.montpellier.inrae.fr/mistea/">MISTEA</a> lab.</p>
+<p>I analyze data of alcoholic fermentations, phenotyping (plants,
+animals), survey etc… and develop R packages and web applications.</p>
+<div id="contact-information" class="section level2">
+<h2>Contact information</h2>
 <p><strong>UMR Mistea</strong>, building 21 3rd floor, office 319, 2
 place Pierre Viala, 34060 Montpellier Cedex 2, France</p>
 <p>Isabelle.Sanchez <em>at</em> inrae.fr / +33 (0)4 99 61 31 95</p>
 <p><a href="https://github.com/sanchezi"
 class="uri">https://github.com/sanchezi</a></p>
 </div>
-<div id="projects-phenome-eppn2020-coex-starwine-techcare"
+<div id="projects-phenome-eppn2020-coex-starwine-techcare-vinidocc"
 class="section level1">
-<h1>Projects Phenome, EPPN2020, COEX, Starwine, TechCare</h1>
+<h1>Projects Phenome, EPPN2020, COEX, Starwine, TechCare, Vinid’Occ</h1>
 <ul>
 <li>Detection of outliers (on spatial data, on temporal data, impulsed
 noised outliers …)</li>
 <li>Biclustering on survey data</li>
 <li>Spatial clustering on survey data</li>
 <li>GAM modeling on temporal data</li>
+</ul>
+</div>
+<div
+id="development-of-neural-networks-and-deep-learning-workflows-in-r-tensorflow-keras"
+class="section level1">
+<h1>Development of neural networks and deep learning workflows in R
+(Tensorflow, Keras)</h1>
+<ul>
+<li>Approximate Bayesian Computation and Convolutional NN</li>
+<li>workflows on images, time series for regression or classification
+predictions</li>
+<li>Numerical simulations or applications on Lake temporal data</li>
+<li>Tools: Tensorflow and Keras in R but also <a
+href="https://fluxml.ai/Flux.jl/stable/">Flux</a> in Julia</li>
 </ul>
 </div>
 <div
@@ -339,11 +375,15 @@ href="https://forgemia.inra.fr/nicolas.verzelen/blockmodels4inventories">on
 Gitlab</a>, <a
 href="nicolas.verzelen.pages.mia.inra.fr/blockmodels4inventories/">web
 site</a>)</li>
+<li>kfino (<a href="https://forgemia.inra.fr/isabelle.sanchez/kfino">on
+Gitlab</a>,<a href="https://cran.r-project.org/package=kfino">on
+CRAN</a>)</li>
 </ul>
 </div>
 <div id="leading-an-r-and-python-programming-working-group"
 class="section level1">
 <h1>Leading an R and Python programming working group</h1>
+<p>with a bit of Julia on the side…</p>
 <p><a href="https://forgemia.inra.fr/gdtpyr/GdT-PyR">Gitlab
 repository</a></p>
 <p><a href="https://gdtpyr.pages.mia.inra.fr/blog/">PyR blog</a></p>
@@ -355,6 +395,9 @@ class="section level1">
 server</h1>
 <p>Beta user in the <a href="https://sk8.inrae.fr/">SK8</a> project. <a
 href="https://docs.sk8.inrae.fr/">documentation</a></p>
+<p><a href="https://oriole.sk8.inrae.fr/">ORIOLE</a>: A web application
+for the automatic filtering of outliers in databases produced by the
+Walk-over-Weighing (WoW) platform (TechCare project)</p>
 </div>
 
 

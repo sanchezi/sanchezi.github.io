@@ -1,5 +1,5 @@
 ---
-title: "Isabelle Sanchez"
+title: "Isabelle Sanchez - Statistician Engineer"
 output: 
   html_document:
    logo: img/Logotype-INRAE.jpg
@@ -10,7 +10,11 @@ output:
 ---
 
 
-# Statistician Engineer
+I am a statistician engineer at [INRAE](https://www.inrae.fr/) in [MISTEA](https://www6.montpellier.inrae.fr/mistea/) lab. 
+
+I analyze data of alcoholic fermentations, phenotyping (plants, animals), survey etc... and develop R packages and web applications.
+
+## Contact information
 
 **UMR Mistea**, building 21 3rd floor, office 319, 2 place Pierre Viala, 34060 Montpellier Cedex 2, France
 
@@ -18,12 +22,19 @@ Isabelle.Sanchez _at_ inrae.fr / +33 (0)4 99 61 31 95
     
 https://github.com/sanchezi
 
-# Projects Phenome, EPPN2020, COEX, Starwine, TechCare
+# Projects Phenome, EPPN2020, COEX, Starwine, TechCare, Vinid'Occ
 
 * Detection of outliers (on spatial data, on temporal data, impulsed noised outliers ...)
 * Biclustering on survey data
 * Spatial clustering on survey data
 * GAM modeling on temporal data
+
+# Development of neural networks and deep learning workflows in R (Tensorflow, Keras)
+
+* Approximate Bayesian Computation and Convolutional NN
+* workflows on images, time series for regression or classification predictions
+* Numerical simulations or applications on Lake temporal data
+* Tools: Tensorflow and Keras in R but also [Flux](https://fluxml.ai/Flux.jl/stable/) in Julia
 
 # Development for high throughput phenotyping data, temporal and spatial:
 
@@ -43,8 +54,11 @@ https://github.com/sanchezi
 * bliss ([on Github](https://github.com/pmgrollemund/bliss), [on CRAN](https://CRAN.R-project.org/package=bliss))
 * spiceFP ([on Github](https://github.com/giraultg/SpiceFP), [on CRAN](https://CRAN.R-project.org/package=SpiceFP))
 * blockmodels4inventories([on Gitlab](https://forgemia.inra.fr/nicolas.verzelen/blockmodels4inventories), [web site](nicolas.verzelen.pages.mia.inra.fr/blockmodels4inventories/))
+* kfino ([on Gitlab](https://forgemia.inra.fr/isabelle.sanchez/kfino),[on CRAN](https://cran.r-project.org/package=kfino))
 
 # Leading an R and Python programming working group
+
+with a bit of Julia on the side...
 
 [Gitlab repository](https://forgemia.inra.fr/gdtpyr/GdT-PyR)
 
@@ -54,3 +68,4 @@ https://github.com/sanchezi
 
 Beta user in the [SK8](https://sk8.inrae.fr/) project. [documentation](https://docs.sk8.inrae.fr/)
 
+[ORIOLE](https://oriole.sk8.inrae.fr/): A web application for the automatic filtering of outliers in databases produced by the Walk-over-Weighing (WoW) platform (TechCare project)

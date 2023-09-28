@@ -10,9 +10,17 @@ navbar:
       href: publications.html
       
   right: 
+  - text : "On the web"
+    menu: 
     - text: "Github"
       icon: fab fa-github
       href: https://github.com/sanchezi
+    - text: "LinkedIn"
+      icon: fab fa-linkedin 
+      href: https://fr.linkedin.com/in/isabelle-sanchez-9b884849
+    - text: "Research gate" 
+      icon: fab fa-researchgate
+      href: https://www.researchgate.net/profile/Sanchez-Isabelle-2
 
 output:
   html_document:
