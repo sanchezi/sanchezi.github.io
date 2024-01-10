@@ -53,14 +53,14 @@ https://github.com/sanchezi
 * geozoning ([on Github](https://github.com/hazaeljones/geozoning))
 * bliss ([on Github](https://github.com/pmgrollemund/bliss), [on CRAN](https://CRAN.R-project.org/package=bliss))
 * spiceFP ([on Github](https://github.com/giraultg/SpiceFP), [on CRAN](https://CRAN.R-project.org/package=SpiceFP))
-* blockmodels4inventories([on Gitlab](https://forgemia.inra.fr/nicolas.verzelen/blockmodels4inventories), [web site](nicolas.verzelen.pages.mia.inra.fr/blockmodels4inventories/))
+* blockmodels4inventories([on Gitlab](https://forgemia.inra.fr/nicolas.verzelen/blockmodels4inventories), [web site](https://nicolas.verzelen.pages.mia.inra.fr/blockmodels4inventories/))
 * kfino ([on Gitlab](https://forgemia.inra.fr/isabelle.sanchez/kfino),[on CRAN](https://cran.r-project.org/package=kfino))
 
 # Leading an R and Python programming working group
 
 with a bit of Julia on the side...
 
-[Gitlab repository](https://forgemia.inra.fr/gdtpyr/GdT-PyR)
+[Gitlab repository](https://forgemia.inra.fr/gdtpyr/gdt_pyr)
 
 [PyR blog](https://gdtpyr.pages.mia.inra.fr/blog/)
 
