@@ -12,7 +12,7 @@ output:
 <br>
   
 
-<img src="img/photo_pro_is.PNG" alt="mpe" width = "280px" align="right"> </img>
+<img src="img/photo_pro_is.PNG" alt="mpe" width = "200px" align="right"> </img>
  
 
 I am a statistician engineer at [INRAE](https://www.inrae.fr/) in [MISTEA](https://www6.montpellier.inrae.fr/mistea/) lab. 
